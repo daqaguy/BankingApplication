@@ -28,3 +28,20 @@ A simple console-based banking application in Java that simulates basic function
    ```bash
    git clone https://github.com/yourusername/banking-application.git
    cd banking-application
+
+2. Compile the Java files:
+   javac BankingApplication.java
+
+3. Run the application:
+   java BankingApplication
+
+Example Usage
+The application prompts for user login. If the login credentials match, the user can perform deposit and withdrawal transactions.
+
+Sample console output:
+Login successful!
+Deposited 200. Balance: 700.0
+Withdrew 150. Balance: 550.0
+
+Contributing
+Feel free to open issues or submit pull requests if you'd like to contribute.
